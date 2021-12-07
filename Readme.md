@@ -22,4 +22,4 @@ to execute the application
 
 [Demo 1](https://www.youtube.com/watch?v=jqsjvASnQ10)
 
-[Demo 2:](https://www.youtube.com/watch?v=kH1EMLqGkCc)
+[Demo 2](https://www.youtube.com/watch?v=kH1EMLqGkCc)
