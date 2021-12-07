@@ -8,7 +8,7 @@ Total Images: 7553
 Mask: 3725
 Without Mask: 3828
 
-The article by Tom Staite was used to make this project [possible](https://medium.com/@tomstaite1/face-mask-detection-algorithm-using-convolutional-neural-network-ai-computer-vision-15f08988533e) and his code [from](https://github.com/aieml/face-mask-detection-keras)
+The article by Tom Staite was used to make this project [possible](https://medium.com/@tomstaite1/face-mask-detection-algorithm-using-convolutional-neural-network-ai-computer-vision-15f08988533e) and his [code](https://github.com/aieml/face-mask-detection-keras)
 
 App 1 was built by following the [aricle](https://www.geeksforgeeks.org/deploying-a-tensorflow-2-1-cnn-model-on-the-web-with-flask/)
 
